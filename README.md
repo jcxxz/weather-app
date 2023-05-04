@@ -40,7 +40,7 @@ Here is a Link to the Repository
 https://github.com/jcxxz/weather-app
 
 Here is a Link to the Active webpage
-
+https://jcxxz.github.io/weather-app/
 
 - - -
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
